@@ -24,3 +24,4 @@ if __name__ == "__main__":
     print(s)
     print("Area:", s.area_of_my_square())
     print("Perimeter:", s.perimeter_of_my_square())
+
